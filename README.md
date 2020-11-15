@@ -6,11 +6,11 @@ This repository contains my completed work for homework week 2. In this week's h
 
 ## Screen Shot of Completed Work
 
-![updated webpage](Assets/images/my-about-me.png)
+![My About Me](Assets/images/my-about-me.png)
 
-![updated webpage](Assets/images/my-portfolio.png)
+![My Portfolio](Assets/images/my-portfolio.png)
 
-![updated webpage](Assets/images/my-contact.png)
+![My Contact](Assets/images/my-contact.png)
 
 ## Link to Deployed Application
 
