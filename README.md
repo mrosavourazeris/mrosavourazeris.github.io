@@ -6,6 +6,8 @@ This repository contains my completed work for homework week 2. In this week's h
 
 ## Screen Shot of Completed Work
 
+![updated webpage](Develop/assets/images/Screenshot-1.png)
+
 ![My About Me](Assets/images/my-about-me.png)
 
 ![My Portfolio](Assets/images/my-portfolio.png)
