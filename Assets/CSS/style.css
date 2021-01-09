@@ -1,0 +1,44 @@
+/* Styles for all */
+body{
+    background-color: lightgrey;
+}
+
+/* Index styles */
+#mypic {
+    width: 300px;
+    height: 300px;
+}
+
+.portfolioPics{
+    width: 100%;
+    height: 300px;  
+}
+
+#mybio {
+    font-size: x-large;
+}
+
+/* Portfolio Styles */
+.portfolioTitle {
+    text-decoration: underline;
+}
+
+.blankTitle {
+    color: transparent;
+}
+
+.imageBorder {
+    border: solid;
+    border-color: black;
+}
+
+.myPTag {
+    margin-bottom: 2px;
+}
+
+#myCard{
+    max-width: 70rem;
+}
+
+
+  
