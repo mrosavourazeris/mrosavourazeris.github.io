@@ -10,7 +10,9 @@ This repository contains my completed work for homework week 2. In this week's h
 
 ![My Portfolio](Assets/Images/my-portfolio.png)
 
-![My Contact](Assets/Images/my-contact.png)
+![My Info](Assets/Images/my-info.png)
+
+![Contact Me](Assets/Images/my-contact.png)
 
 ## Link to Deployed Application
 
