@@ -1,12 +1,14 @@
 import Home from './pages/home'
 import NavBar from './components/navBar'
 import Contact from './pages/contact'
+import MyContactInfo from './pages/my-contact-info'
 
 function App() {
   return (
     <div>
       <NavBar />
-      <Contact />
+      <MyContactInfo />
+      {/* <Contact /> */}
       {/* <Home /> */}
     </div>
     // <div className="App">
