@@ -1,8 +1,14 @@
 import Home from './pages/home'
+import NavBar from './components/navBar'
+import Contact from './pages/contact'
 
 function App() {
   return (
-    <Home />
+    <div>
+      <NavBar />
+      <Contact />
+      {/* <Home /> */}
+    </div>
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
