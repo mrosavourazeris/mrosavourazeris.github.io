@@ -9,16 +9,16 @@ const Contact = () => (
       <div className="card-body">
         <form>
           <div className="form-group">
-            <label for="exampleInputEmail1">Name</label>
+            <label htmlFor="exampleInputEmail1">Name</label>
             <input type="email" className="form-control" id="exampleInputEmail1" ></input>
             <small id="emailHelp" className="form-text text-muted"></small>
           </div>
           <div className="form-group">
-            <label for="exampleInputPassword1">Email</label>
+            <label htmlFor="exampleInputPassword1">Email</label>
             <input type="password" className="form-control" id="exampleInputPassword1"></input>
           </div>
           <div className="form-group">
-            <label for="exampleFormControlTextarea1">Message</label>
+            <label htmlFor="exampleFormControlTextarea1">Message</label>
             <textarea className="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
           </div>
           <button type="submit" className="btn btn-primary">Submit</button>
