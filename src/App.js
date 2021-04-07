@@ -13,10 +13,7 @@ function App() {
   return (
     <Router>
       <div>
-        <NavBar 
-        
-        
-        />
+        <NavBar />
         <Switch>
           <Route path="/aboutme">
             <Home />

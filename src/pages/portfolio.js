@@ -4,7 +4,12 @@ import PortfolioCard from '../components/portfolioCard'
 import PortfolioData from '../assets/portfolioData'
 
 const Portfolio = () => (
-  <PortfolioCard />
+  <div>
+    {PortfolioData.map(project => <PortfolioCard 
+      {...project}
+      key={project.id}
+    />)}
+  </div>
 )
 
 export default Portfolio
