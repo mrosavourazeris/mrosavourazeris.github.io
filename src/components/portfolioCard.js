@@ -1,5 +1,4 @@
 import React from 'react'
-// import '../pages/style.css'
 import myPassword from '../images/password.png'
 
 const PortfolioCard = ({ id, name, projectHref, repoHref, image, alt, description }) => (

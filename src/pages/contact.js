@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Contact = () => (
   <div className="container">
     <div className="card bg-light mb-3 ">

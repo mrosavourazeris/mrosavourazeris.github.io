@@ -1,4 +1,5 @@
 import React from 'react'
+import MyPic from '../images/mypic.jpg'
 
 const Home = () => (
   <div style={{textAlign: "center"}} className="container ">
@@ -8,7 +9,7 @@ const Home = () => (
           <h1>About Me</h1>
         </div>
         <div className="card-body ">
-          <img id="mypic" className="img-fluid mb-2 mr-3 " src={"../../Assets/Images/mypic.jpg"} alt="Picture of Michael Rosa-Vourazeris" />
+          <img id="mypic" className="img-fluid mb-2 mr-3 " src={MyPic} alt="Picture of Michael Rosa-Vourazeris" />
           <p id="mybio" className="card-text ">
             Hi my name is Michael Rosa-Vourazeris. I'm 27 years old and have worked in logistics for the last 4 years. I signed up for Northwesterns Coding Bootcamp so I could make a transition into a new industry. I believe the coding industry has the most potential for growth and best opportunity for employment.
           </p>
