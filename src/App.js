@@ -18,6 +18,9 @@ function App() {
           <Route path="/">
             <Home />
           </Route>
+          <Route path="/aboutme">
+            <Home />
+          </Route>
           <Route path="/portfolio">
             <Portfolio />
           </Route>

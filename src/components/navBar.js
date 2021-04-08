@@ -21,6 +21,7 @@ const NavBar = () => {
       </button>
       <div className="collapse navbar-collapse flex-row-reverse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
+          <Link className={checkActive("/")} to="/">About Me</Link>
           <Link className={checkActive("/aboutme")} to="/aboutme">About Me</Link>
           <Link className={checkActive("/portfolio")} to="/portfolio">Portfolio</Link>
           <Link className={checkActive("/mycontactinfo")} to="/mycontactinfo">My Contact Info</Link>
