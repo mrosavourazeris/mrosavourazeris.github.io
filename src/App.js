@@ -15,7 +15,7 @@ function App() {
       <div>
         <NavBar />
         <Switch>
-          <Route path="/aboutme">
+          <Route path="/">
             <Home />
           </Route>
           <Route path="/portfolio">
