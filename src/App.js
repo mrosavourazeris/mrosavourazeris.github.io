@@ -15,20 +15,20 @@ function App() {
       <div>
         <NavBar />
         <Switch>
-          <Route path="/">
-            <Home />
+          <Route path="/portfolio">
+            <Portfolio />
+          </Route>
+          <Route path="/resume">
+            <MyContactInfo />
           </Route>
           <Route path="/aboutme">
             <Home />
           </Route>
-          <Route path="/portfolio">
-            <Portfolio />
-          </Route>
-          <Route path="/mycontactinfo">
-            <MyContactInfo />
-          </Route>
           <Route path="/contactme">
             <Contact />
+          </Route>
+          <Route path="/">
+            <Portfolio />
           </Route>
         </Switch>  
       </div>
