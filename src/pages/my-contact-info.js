@@ -1,7 +1,10 @@
 import React, {useState} from 'react'
 import {Document, Page} from 'react-pdf'
+import Resume3 from "../images/resume3.png"
+import Resume4 from "../images/resume4.png"
 import Resume1 from '../images/resume1.png'
 import Resume2 from '../images/resume2.png'
+import MyResume from '../assets/resume.pdf'
 
 const MyContactInfo = () => {
 
@@ -22,10 +25,11 @@ const MyContactInfo = () => {
           <div className="container">
             <div className="row">
               <div className="col" style={{textAlign: "center"}}>
-                <img  src={Resume1} alt="Picture of resume page 1" />
+                <img  src={Resume3} alt="Picture of resume page 1" />
               </div>
+              
               <div className="col" style={{textAlign: "center"}}>
-                <img  src={Resume2} alt="Picture of resume page 2" />
+                <img  src={Resume4} alt="Picture of resume page 2" />
               </div>
             </div>
           </div>
