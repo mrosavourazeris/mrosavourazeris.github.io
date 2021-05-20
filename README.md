@@ -7,13 +7,13 @@ This repository contains my portfolio created through React. It has an About Me 
 
 ## Screen Shot of Completed Work
 
-![My About Me](src/images/my-about-me.png)
+![My Portfolio](src/images/my-portfolio-page.png)
 
-![My Portfolio](src/images/my-portfolio.png)
+![My Info](src/images/my-resume.png)
 
-![My Info](src/images/my-info.png)
+![My About Me](src/images/my-about.png)
 
-![Contact Me](src/images/my-contact.png)
+![Contact Me](src/images/my-connect.png)
 
 ## Deployed Site
 
