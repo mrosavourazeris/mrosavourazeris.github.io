@@ -1,29 +1,31 @@
 import React from 'react'
+import {
+  Link,
+  useLocation
+} from "react-router-dom";
+
 
 
 const Contact = () => (
-  <div className="container">
+  <div className="container w-100 "style={{ maxWidth: "300px" }}>
     <div className="card bg-light mb-3 ">
       <div className="card-header bg-dark text-light">
-        <h1>Contact</h1>
+        <h1>Connect With Me</h1>
       </div>
       <div className="card-body">
-        <form>
-          <div className="form-group">
-            <label htmlFor="exampleInputEmail1">Name</label>
-            <input type="email" className="form-control" id="exampleInputEmail1" ></input>
-            <small id="emailHelp" className="form-text text-muted"></small>
+        <div className="row" style={{ textAlign: "center" }}>
+          <div className="col">
+            <a href={"https://github.com/mrosavourazeris"} style={{ color: "black" }}>
+              <i className="fa fa-github-square fa-5x" aria-hidden="true"></i>
+            </a>
           </div>
-          <div className="form-group">
-            <label htmlFor="exampleInputPassword1">Email</label>
-            <input type="password" className="form-control" id="exampleInputPassword1"></input>
+          <div className="col">
+            <a href="https://www.linkedin.com/in/michaelrosavourazeris/" style={{ color: "blue" }}>
+              <i class="fa fa-linkedin-square fa-5x" aria-hidden="true"></i>
+            </a>
           </div>
-          <div className="form-group">
-            <label htmlFor="exampleFormControlTextarea1">Message</label>
-            <textarea className="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
-          </div>
-          <button type="submit" className="btn btn-primary">Submit</button>
-        </form>
+          
+        </div>
       </div>
     </div>
 </div>
