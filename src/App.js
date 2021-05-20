@@ -24,7 +24,7 @@ function App() {
           <Route path="/aboutme">
             <Home />
           </Route>
-          <Route path="/contactme">
+          <Route path="/connect">
             <Contact />
           </Route>
           <Route path="/">
