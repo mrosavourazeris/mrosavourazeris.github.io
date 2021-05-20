@@ -3,6 +3,7 @@ import {
   Link,
   useLocation
 } from "react-router-dom";
+//comment so new code can be pushed
 
 const NavBar = () => {
 
