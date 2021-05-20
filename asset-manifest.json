@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5b09e767.chunk.css",
-    "main.js": "/static/js/main.1dd8db2a.chunk.js",
-    "main.js.map": "/static/js/main.1dd8db2a.chunk.js.map",
+    "main.js": "/static/js/main.4434ddea.chunk.js",
+    "main.js.map": "/static/js/main.4434ddea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4b9cddae.js",
     "runtime-main.js.map": "/static/js/runtime-main.4b9cddae.js.map",
     "static/js/2.e35d671a.chunk.js": "/static/js/2.e35d671a.chunk.js",
@@ -12,11 +12,15 @@
     "index.html": "/index.html",
     "static/css/main.5b09e767.chunk.css.map": "/static/css/main.5b09e767.chunk.css.map",
     "static/js/2.e35d671a.chunk.js.LICENSE.txt": "/static/js/2.e35d671a.chunk.js.LICENSE.txt",
+    "static/media/employee.41903ac6.png": "/static/media/employee.41903ac6.png",
     "static/media/myPlanner.25f550fb.png": "/static/media/myPlanner.25f550fb.png",
     "static/media/mypic.a2456cb2.jpg": "/static/media/mypic.a2456cb2.jpg",
     "static/media/noteTaker.ff04b985.png": "/static/media/noteTaker.ff04b985.png",
     "static/media/password.343bf60d.png": "/static/media/password.343bf60d.png",
+    "static/media/powerrx.8cee1c8f.png": "/static/media/powerrx.8cee1c8f.png",
     "static/media/project1.2f84160a.png": "/static/media/project1.2f84160a.png",
+    "static/media/resume3.54d42558.png": "/static/media/resume3.54d42558.png",
+    "static/media/resume4.303ea37c.png": "/static/media/resume4.303ea37c.png",
     "static/media/signup.35b6c34f.png": "/static/media/signup.35b6c34f.png",
     "static/media/workout.b1d64510.png": "/static/media/workout.b1d64510.png"
   },
@@ -24,6 +28,6 @@
     "static/js/runtime-main.4b9cddae.js",
     "static/js/2.e35d671a.chunk.js",
     "static/css/main.5b09e767.chunk.css",
-    "static/js/main.1dd8db2a.chunk.js"
+    "static/js/main.4434ddea.chunk.js"
   ]
 }
