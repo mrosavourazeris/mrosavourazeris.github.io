@@ -24,7 +24,7 @@ const NavBar = () => {
           <Link className={checkActive("/portfolio")} to="/portfolio">Portfolio</Link>
           <Link className={checkActive("/mycontactinfo")} to="/resume">Resume</Link>
           <Link className={checkActive("/aboutme")} to="/aboutme">About Me</Link>
-          <Link className={checkActive("/contactme")} to="/contactme" style={{paddingRight: "20px"}}>Connect With Me</Link>
+          <Link className={checkActive("/connect")} to="/connect" style={{paddingRight: "20px"}}>Connect With Me</Link>
         </div>
       </div>
     </nav>
